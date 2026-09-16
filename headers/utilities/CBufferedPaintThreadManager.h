@@ -1,0 +1,10 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from uxtheme.dll by Windissect. 1 member(s).
+class CBufferedPaintThreadManager {
+public:
+    // Category: Method | Source: PDB Internal
+    // Symbol: ?StaticTerminate@CBufferedPaintThreadManager@@SAXXZ
+    static void StaticTerminate();
+};

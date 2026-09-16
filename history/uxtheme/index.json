@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "uxtheme.dll",
+  "latest": "734920565-E2BBBDA030FB0FCAF20FA485D62A7A56-1",
+  "builds": [
+    {
+      "key": "734920565-E2BBBDA030FB0FCAF20FA485D62A7A56-1",
+      "timestamp": "734920565",
+      "pdb_guid": "E2BBBDA030FB0FCAF20FA485D62A7A56",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/734920565-E2BBBDA030FB0FCAF20FA485D62A7A56-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
